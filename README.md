@@ -4,7 +4,7 @@ A simple browser extension to save and manage web links with optional short desc
 
 ---
 
-## 🚀 How to Use:
+##  How to Use:
 
 1. **Download or Clone** the project.
 2. Go to `browser://extensions/` in browser.
@@ -14,7 +14,7 @@ A simple browser extension to save and manage web links with optional short desc
    
 ---
 
-## ✅ Features:
+##  Features:
 
 ![Image](https://github.com/user-attachments/assets/d36b1bc7-7498-4e17-98f5-b7bd7f4cebb7)
 
@@ -30,4 +30,5 @@ Works offline, stores data locally, and requires no sign-in.
 
 ![Image](https://github.com/user-attachments/assets/a45f3cef-d1e4-48bf-9c64-2bbfb8c4cb3a)
 
----
+
+
