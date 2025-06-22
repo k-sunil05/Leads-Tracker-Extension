@@ -11,6 +11,8 @@ A simple browser extension to save and manage web links with optional short desc
 3. **Enable Developer Mode** (top right).
 4. Click **"Load unpacked"** and select the (unzipped) project folder.
 5. Start saving links via the extension popup.
+   
+![Lead Tracker UI](Screenshot.png)
 
 ---
 
@@ -26,4 +28,4 @@ A simple browser extension to save and manage web links with optional short desc
 
 Works offline, stores data locally, and requires no sign-in.
 
-![Lead Tracker UI](Screenshot.png)
+![Lead Tracker UI](Screenshot1.png)
