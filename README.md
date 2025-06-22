@@ -7,9 +7,9 @@ A simple browser extension to save and manage web links with optional short desc
 ## 🚀 How to Use:
 
 1. **Download or Clone** the project.
-2. Go to `chrome://extensions/` in browser.
+2. Go to `browser://extensions/` in browser.
 3. **Enable Developer Mode** (top right).
-4. Click **"Load unpacked"** and select the project folder.
+4. Click **"Load unpacked"** and select the (unzipped) project folder.
 5. Start saving links via the extension popup.
 
 ---
