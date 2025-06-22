@@ -16,7 +16,7 @@ A simple browser extension to save and manage web links with optional short desc
 
 ## ✅ Features:
 
-![Lead Tracker UI](Screenshot.png)
+![Image](https://github.com/user-attachments/assets/d36b1bc7-7498-4e17-98f5-b7bd7f4cebb7)
 
 - Save current tab with one click  
 - Add custom URLs with optional descriptions  
@@ -28,7 +28,6 @@ A simple browser extension to save and manage web links with optional short desc
 
 Works offline, stores data locally, and requires no sign-in.
 
-![Lead Tracker UI](Screenshot1.png)
+![Image](https://github.com/user-attachments/assets/a45f3cef-d1e4-48bf-9c64-2bbfb8c4cb3a)
 
-
-
+---
