@@ -28,4 +28,4 @@ A simple browser extension to save and manage web links with optional short desc
 
 Works offline, stores data locally, and requires no sign-in.
 
-![Lead Tracker UI](Screenshot1.png)
+![Lead Tracker UI](Screenshot.png)
